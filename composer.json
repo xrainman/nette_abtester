@@ -1,0 +1,13 @@
+{
+    "name": "zaraguza/abtester",
+    "description": "A simple AB Tester for Nette.",
+    "authors": [
+        {
+            "name": "Pavol Eichler",
+            "email": "pavol.eichler@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
