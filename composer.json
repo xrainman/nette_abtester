@@ -13,7 +13,7 @@
     },
     "autoload": {
         "classmap": [
-                "ABTester.php"
+            "ABTester.php"
         ]
     }
 }

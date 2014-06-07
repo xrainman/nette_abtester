@@ -1,7 +1,4 @@
 <?php
-
-namespace Zaraguza;
-
 /**
  * @author Pavol Eichler
  * 
@@ -27,6 +24,9 @@ namespace Zaraguza;
  *      doACThing();
  * 
  */
+
+namespace Zaraguza;
+
 class ABTester {
    
     const GROUP_A = 0;
