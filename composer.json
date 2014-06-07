@@ -12,8 +12,8 @@
         "nette/nette": "2.*"
     },
     "autoload": {
-            "classmap": [
-                    "XDebugHelper.php"
-            ]
+        "classmap": [
+                "ABTester.php"
+        ]
     }
 }
