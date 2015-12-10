@@ -25,7 +25,7 @@
  * 
  */
 
-namespace Zaraguza;
+namespace PavolEichler;
 
 class ABTester {
    
